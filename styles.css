@@ -3,3 +3,14 @@
   background-color: #ffefd7;
   font-weight: bold;
 }
+
+h1 {
+  color: #BDBDBD;
+  text-decoration: underline #FFA726;
+  margin-top: 1.5rem;
+}
+
+
+h4 {
+  color: #757575;
+}
